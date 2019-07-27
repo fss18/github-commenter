@@ -30,3 +30,6 @@
 
 ## To Run Test
 To run test: simply push new commit or pull request and watch the comment added as the build start and finishes.
+
+## Credits
+I am using reference from: https://github.com/widdix/github-bot, simplify the setup and replace axios with @octokit/rest

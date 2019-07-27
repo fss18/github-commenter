@@ -1,0 +1,6 @@
+{
+  "github": {
+    "token": "INSERT GITHUB PERSONAL TOKEN VALUE HERE",
+    "secret": "INSERT 16 CHAR RANDOM STRING HERE"
+  }
+}

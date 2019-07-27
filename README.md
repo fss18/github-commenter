@@ -1,3 +1,6 @@
+# Github Commenter Demo
+![architecture](docs/GitHub-Comment-Demo.png)
+
 ## Pre-requisite:
  - Node JS
  - AWS CLI
